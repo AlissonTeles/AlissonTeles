@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlissonTeles
 - 👀 I’m interested in HTML
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Ruby on Rails
 - 📫 How to reach me:
     alisson.teles@Outlook.com
 
